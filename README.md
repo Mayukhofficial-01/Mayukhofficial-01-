@@ -53,7 +53,7 @@ Here are a few projects I’m proud of:
 
 - ✉️ Email: mayukhchatterjee2005@gmail.com
 - 💼 LinkedIn: [Mayukh Chatterjee](https://www.linkedin.com/in/mayukh-chatterjee-096179275/)
-- 🌐 Portfolio: <!-- Add your portfolio link here -->
+- 🌐 Portfolio: https://mayukhportfolio-905fe.web.app/
 
 ---
 
